@@ -4,6 +4,7 @@
   
 # GameHub
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 This Frontend project is developed with React, Tailwind CSS, and API integrations.
 
 </div>
